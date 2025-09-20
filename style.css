@@ -1,0 +1,31 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: black; 
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+ul {
+  list-style-type: square;
+  text-align: left;
+  display: inline-block;
+}
+
+img {
+  width: 250px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+p {
+  color: #333;
+}
